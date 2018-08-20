@@ -4,6 +4,6 @@ public class A {
 	}
 	public int aa();
 	public int bb(){
-		return 1+1;
+		return 1+2;
 	}
 }
